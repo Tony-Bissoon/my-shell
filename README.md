@@ -1,3 +1,4 @@
+# my-shell
 # Description 
 This project contains a simple shell implementation (mysh) written in C. The shell provides basic functionality such as executing commands, built-in commands like cd, pwd, which, and exit, as well as handling I/O redirection. It supports both interactive mode and batch mode execution.
 
@@ -36,4 +37,4 @@ This project contains a simple shell implementation (mysh) written in C. The she
     Expected Output: The shell should print mysh: exiting and terminate.
 
 
-# my-shell
+
